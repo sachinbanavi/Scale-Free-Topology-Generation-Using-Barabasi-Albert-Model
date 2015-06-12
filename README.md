@@ -1,2 +1,0 @@
-# Scale-Free-Topology-Generation
-A scale-free network is constructed has ultra-small diameter (~ln ln(n)), where n is the network size. Diameter of a network is defined as the largest shortest path length between all pairs of nodes in the network. The link between two nodes in the network corresponds to a TCP connection. Created a scalable way of creating TCP connections between nodes using Barabasi-Albert model.
